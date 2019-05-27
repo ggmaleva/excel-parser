@@ -9,15 +9,15 @@ Example of excel file:
 
 Module            | Path 
 ----------------- | -------------
-ModuleName-1.0.0  | /META-INF/wsdl/ru.exaple.MyWSDLName.wsdl
+ModuleName-1.0.0  | /META-INF/wsdl/com.example.MyWSDLName.wsdl
 Content Cell      | Content Cell
 
 Second shit:
 
-Endpoint                                        |
-------------------------------------------------|
-http://localhost:8080/myService/getService?wsdl | 
-http://localhost:8080/myService/getService?wsdl |
+Endpoint                                           |
+---------------------------------------------------|
+http://localhost:8080/myService/getService?wsdl    | 
+http://localhost:8080/myService/clientService?wsdl |
 
 Example config.xml:
 
