@@ -10,7 +10,7 @@ Example of excel file:
 Module            | Path 
 ----------------- | -------------
 ModuleName-1.0.0  | /META-INF/wsdl/com.example.MyWSDLName.wsdl
-Content Cell      | Content Cell
+SuperModule-1.0.0 | /META-INF/wsdl/com.example.YourWSDLName.wsdl
 
 Second shit:
 
