@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><modules><module name="MTSBonusPortalFacade"><classes><class name="ru.mts.esb.mtsbonus.portal.ws.GCOSAdapter"><points><point name="availableGiftCodeAmount"/></points></class></classes></module></modules>
