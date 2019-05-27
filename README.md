@@ -1,7 +1,7 @@
 # excel-parser
 ## Quick guide
 
-This is simple example of using Apache Poi for parsing .xls document and ganerate new .xml config file with information from Excel.
+This is simple example of using Apache Poi for parsing .xls document and generate new .xml config file with information from Excel.
 
 Example of excel file:
 
