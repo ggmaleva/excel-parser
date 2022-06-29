@@ -15,7 +15,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<poi.version>4.0.1</poi.version>
+		<poi.version>4.1.1</poi.version>
 	</properties>
 
 	<dependencies>
